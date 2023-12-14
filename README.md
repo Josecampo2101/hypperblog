@@ -8,6 +8,10 @@
 **Introducción a Git:
 **Creado por el increible Jose Campo
 **Lo mejor de la historia
+<<<<<<< HEAD
+=======
+**Inclye ejemplo en todo lo de la historia
+>>>>>>> readme-mejorado
 > 
 Configurar y inicializar un repositorio Git.
 Realizar commits y gestionar cambios en tu código de manera efectiva.
