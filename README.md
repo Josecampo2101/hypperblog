@@ -6,7 +6,8 @@
 # ¿QUÉ APRENDERÁS?
 
 **Introducción a Git:
-**
+**Creado por el increible Jose Campo
+**Lo mejor de la historia
 > 
 Configurar y inicializar un repositorio Git.
 Realizar commits y gestionar cambios en tu código de manera efectiva.
